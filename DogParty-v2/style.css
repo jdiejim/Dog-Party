@@ -1,0 +1,55 @@
+body {
+  background-color: #e2e2e2;
+  margin: 0; }
+
+.page {
+  max-width: 1000px;
+  margin: 0px auto; }
+
+.clearfix:after {
+  content: " ";
+  display: table;
+  clear: both; }
+
+header {
+  height: 500px;
+  background-image: url(Assets/bg-2.jpg);
+  background-position: center;
+  background-size: cover; }
+
+.banner h1 {
+  background-color: #6b7c8e;
+  color: white;
+  font-family: 'Droid Sans', sans-serif;
+  font-weight: bolder;
+  font-size: 250%;
+  letter-spacing: 0.2em;
+  width: 400px;
+  margin-left: 59%;
+  margin-top: 331px;
+  text-align: center; }
+
+nav {
+  background-color: rgba(255, 255, 255, 0.8);
+  height: 35px; }
+  nav img {
+    width: 30px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 3px; }
+
+ul {
+  font-family: Nunito, sans-serif;
+  float: right;
+  margin-top: 7px; }
+
+li {
+  display: inline-block;
+  margin-right: 20px; }
+  li a {
+    color: #181818;
+    text-decoration: none;
+    margin-right: 10px;
+    font-weight: bold; }
+
+/*# sourceMappingURL=style.css.map */
